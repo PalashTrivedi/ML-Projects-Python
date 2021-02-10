@@ -1,0 +1,1 @@
+web gunicorn studentpredictorapp:student_predictor_app
